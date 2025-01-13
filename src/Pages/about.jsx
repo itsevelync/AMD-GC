@@ -10,7 +10,7 @@ export default function Problem() {
     <div className="pageContainerContainer">
       <div className="pageContainer">
         <p className="smallHeader">About Us</p>
-        <h1 className="title">MineMap Contributors</h1>
+        <h1 id="contributors" className="title">MineMap Contributors</h1>
         <p className="subTitle">These are the people who make MineMap possble.</p>
         <div className="container">
           <div className="container1" data-aos="fade-up">

@@ -114,7 +114,8 @@ img {
     }
 }
 
-.container p, .container li {
+.container p,
+.container li {
     margin-bottom: 10px;
     font-weight: 100;
 }
@@ -181,5 +182,15 @@ img {
     #teamdiv {
         flex-direction: column-reverse;
         align-items: flex-start;
+    }
+}
+
+#contributors {
+    font-size: 60px;
+}
+
+@media all and (max-width: 500px) {
+    #contributors {
+        font-size: 13vw;
     }
 }
