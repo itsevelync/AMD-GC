@@ -63,10 +63,10 @@ export default function Navbar() {
 
       <div id="navRight" className="navRight">
         <ul>
-          <li><NavLink to="/" className="menuItem" end onClick={handleLinkClick}>Home</NavLink></li>
-          <li><NavLink to="/problem" className="menuItem" onClick={handleLinkClick}>The Problem</NavLink></li>
-          <li><NavLink to="/solution" className="menuItem" onClick={handleLinkClick}>Our Solution</NavLink></li>
-          <li><NavLink to="/about" className="menuItem" onClick={handleLinkClick}>About Us</NavLink></li>
+          <li><NavLink to="/AMD-GC" className="menuItem" end onClick={handleLinkClick}>Home</NavLink></li>
+          <li><NavLink to="/AMD-GC/problem" className="menuItem" onClick={handleLinkClick}>The Problem</NavLink></li>
+          <li><NavLink to="/AMD-GC/solution" className="menuItem" onClick={handleLinkClick}>Our Solution</NavLink></li>
+          <li><NavLink to="/AMD-GC/about" className="menuItem" onClick={handleLinkClick}>About Us</NavLink></li>
         </ul>
       </div>
     </nav>
