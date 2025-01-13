@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/AMD-GC/static/css/main.3651228f.css",
+    "main.js": "/AMD-GC/static/js/main.cb2f381d.js",
+    "static/js/453.c83cdef3.chunk.js": "/AMD-GC/static/js/453.c83cdef3.chunk.js",
+    "static/media/teampic2.JPEG": "/AMD-GC/static/media/teampic2.2b0edb8fdaa76d199d0b.JPEG",
+    "static/media/teampic1.jpg": "/AMD-GC/static/media/teampic1.471007072a0291116a29.jpg",
+    "static/media/waves.png": "/AMD-GC/static/media/waves.38ab5688950844732295.png",
+    "static/media/HEC-RAS.png": "/AMD-GC/static/media/HEC-RAS.859db8473d6344aa9295.png",
+    "static/media/amd.jpg": "/AMD-GC/static/media/amd.09421df13732454193e3.jpg",
+    "static/media/ArcGIS.png": "/AMD-GC/static/media/ArcGIS.bea9daa88f0ae33896f6.png",
+    "static/media/amd cleanup.jpg": "/AMD-GC/static/media/amd cleanup.e5d7117a7a4589fb1a6e.jpg",
+    "static/media/Nohemi-Light.otf": "/AMD-GC/static/media/Nohemi-Light.59d63689a4ee8d27e0b0.otf",
+    "static/media/Nohemi-ExtraLight.otf": "/AMD-GC/static/media/Nohemi-ExtraLight.379a22f1abc526564e15.otf",
+    "static/media/Nohemi-Bold.otf": "/AMD-GC/static/media/Nohemi-Bold.d041db2a134f3e78b165.otf",
+    "static/media/Nohemi-Medium.otf": "/AMD-GC/static/media/Nohemi-Medium.c83ab9add889144cf03b.otf",
+    "static/media/Nohemi-ExtraBold.otf": "/AMD-GC/static/media/Nohemi-ExtraBold.2437f46327c88e921dcd.otf",
+    "static/media/Nohemi-Regular.otf": "/AMD-GC/static/media/Nohemi-Regular.8d0afbd1f7ce4156b95a.otf",
+    "static/media/Nohemi-SemiBold.otf": "/AMD-GC/static/media/Nohemi-SemiBold.28e38dbc1c6a98602409.otf",
+    "static/media/Nohemi-Thin.otf": "/AMD-GC/static/media/Nohemi-Thin.3a7decf609fd8e60b74d.otf",
+    "static/media/Nohemi-Black.otf": "/AMD-GC/static/media/Nohemi-Black.8c9265ab0a73e2c23bc8.otf",
+    "static/media/Nohemi-Light.woff2": "/AMD-GC/static/media/Nohemi-Light.496989ba7491c976bcfd.woff2",
+    "static/media/Nohemi-ExtraLight.woff2": "/AMD-GC/static/media/Nohemi-ExtraLight.522975875f81b3ae9dd0.woff2",
+    "static/media/Nohemi-Medium.woff2": "/AMD-GC/static/media/Nohemi-Medium.76d97195f49bd49b08a9.woff2",
+    "static/media/Nohemi-Bold.woff2": "/AMD-GC/static/media/Nohemi-Bold.949fd92bd0fe41a9d88d.woff2",
+    "static/media/Nohemi-ExtraBold.woff2": "/AMD-GC/static/media/Nohemi-ExtraBold.2b4c8fbe224c60d2ecf1.woff2",
+    "static/media/Nohemi-SemiBold.woff2": "/AMD-GC/static/media/Nohemi-SemiBold.cb902731d5f0de19c3db.woff2",
+    "static/media/Nohemi-Regular.woff2": "/AMD-GC/static/media/Nohemi-Regular.4d50ba861fc1103b27b1.woff2",
+    "static/media/Nohemi-Thin.woff2": "/AMD-GC/static/media/Nohemi-Thin.c530913bfb0b8c40b9f6.woff2",
+    "static/media/Nohemi-Black.woff2": "/AMD-GC/static/media/Nohemi-Black.cbe92c3f44da3d1cab25.woff2",
+    "index.html": "/AMD-GC/index.html",
+    "main.3651228f.css.map": "/AMD-GC/static/css/main.3651228f.css.map",
+    "main.cb2f381d.js.map": "/AMD-GC/static/js/main.cb2f381d.js.map",
+    "453.c83cdef3.chunk.js.map": "/AMD-GC/static/js/453.c83cdef3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3651228f.css",
+    "static/js/main.cb2f381d.js"
+  ]
+}
