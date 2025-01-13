@@ -24,10 +24,10 @@ function App() {
             <div className="App">
                 <Navbar />
                 <Routes>
-                    <Route path="/" element={<Home />} />
-                    <Route path="/problem" element={<Problem />} />
-                    <Route path="/solution" element={<Solution />} />
-                    <Route path="/about" element={<About />} />
+                    <Route path="/AMD-GC" element={<Home />} />
+                    <Route path="/AMD-GC/problem" element={<Problem />} />
+                    <Route path="/AMD-GC/solution" element={<Solution />} />
+                    <Route path="/AMD-GC/about" element={<About />} />
                 </Routes>
             </div>
         </Router>

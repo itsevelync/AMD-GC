@@ -12,7 +12,7 @@ export default function home() {
       <div className="homeContainer"><div className="homeWrapper">
         <h1 className="homeTitle">Mine<span  style={{ color: '#06d892' }} >MAP</span></h1>
         <p className="headline">Using HEC-RAS and ArcGIS to help researchers locate and treat sources of acid mine drainage in West Virigina's waterways.</p>
-        <a href="/problem"><button class="tryButton">The Problem <KeyboardDoubleArrowRightIcon style={{ verticalAlign: 'sub' }} /></button></a>
+        <a href="/AMD-GC/problem"><button class="tryButton">The Problem <KeyboardDoubleArrowRightIcon style={{ verticalAlign: 'sub' }} /></button></a>
         </div></div>
     </div>
   )
