@@ -1,0 +1,47 @@
+.homeContainer {
+    /* background-image: linear-gradient(
+        to bottom, transparent 90%, black), url("waves.png"); */
+    background-image: url("waves.png");
+    width: 100%;
+    background-size: 100%;
+    background-position: top;
+    height: 100vh;
+    opacity: 80%;
+    display: flex;
+    align-items: center;
+}
+
+.homeWrapper {
+    padding-top: 40px;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+
+.homeTitle {
+    font-weight: 300;
+    font-size: 100px;
+    line-height: 0.8;
+}
+
+.headline {
+    font-size: 26px;
+}
+
+.tryButton {
+    margin: 40px auto 50px auto;
+    padding: 15px 35px;
+    background: transparent;
+    border: solid 1.5px #06d892a4;
+    color: white;
+    border-radius: 30px;
+    transition: all 0.75s ease;
+    font-size: 25px;
+}
+
+.tryButton:hover {
+    filter: brightness(130%);
+    cursor: pointer;
+    background: rgba(255, 255, 255, 0.651);
+    border: solid 2px rgba(255, 255, 255, 0.651);
+    color: black;
+}
