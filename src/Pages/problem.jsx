@@ -33,7 +33,7 @@ export default function Problem() {
             <p>Our mission is to <b>improve AMD identification</b>, enabling stakeholders to redirect resources from detection to remediation.</p>
           </div>
         </div>
-        <a href="/AMD-GC/solution"><button className="readMore" data-aos="zoom-in">Read About Our Solution &gt;&gt;</button></a>
+        <a href="/AMD-GC/solution"><button className="readMore">Read About Our Solution &gt;&gt;</button></a>
       </div>
     </div>
   );
