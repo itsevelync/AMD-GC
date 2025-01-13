@@ -139,7 +139,7 @@ nav {
     .navRight ul {
         padding: 0;
         flex-direction: column;
-        justify-content: center;
+        justify-content: start;
     }
 
     .navRight ul li {
