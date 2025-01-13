@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { NavLink } from "react-router-dom";
 import "./pageLayout.css";
 import AMDImage from './amd.jpg';
 
@@ -33,7 +34,7 @@ export default function Problem() {
             <p>Our mission is to <b>improve AMD identification</b>, enabling stakeholders to redirect resources from detection to remediation.</p>
           </div>
         </div>
-        <a href="/AMD-GC/solution"><button className="readMore">Read About Our Solution &gt;&gt;</button></a>
+        <NavLink to="/AMD-GC/solution"><button className="readMore">Read About Our Solution &gt;&gt;</button></NavLink>
       </div>
     </div>
   );
