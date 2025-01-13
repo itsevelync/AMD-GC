@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/AMD-GC/static/css/main.3651228f.css",
-    "main.js": "/AMD-GC/static/js/main.927673e8.js",
+    "main.css": "/AMD-GC/static/css/main.b59bfef2.css",
+    "main.js": "/AMD-GC/static/js/main.a7ce6185.js",
     "static/js/453.c83cdef3.chunk.js": "/AMD-GC/static/js/453.c83cdef3.chunk.js",
     "static/media/teampic2.JPEG": "/AMD-GC/static/media/teampic2.2b0edb8fdaa76d199d0b.JPEG",
     "static/media/teampic1.jpg": "/AMD-GC/static/media/teampic1.471007072a0291116a29.jpg",
@@ -29,12 +29,12 @@
     "static/media/Nohemi-Thin.woff2": "/AMD-GC/static/media/Nohemi-Thin.c530913bfb0b8c40b9f6.woff2",
     "static/media/Nohemi-Black.woff2": "/AMD-GC/static/media/Nohemi-Black.cbe92c3f44da3d1cab25.woff2",
     "index.html": "/AMD-GC/index.html",
-    "main.3651228f.css.map": "/AMD-GC/static/css/main.3651228f.css.map",
-    "main.927673e8.js.map": "/AMD-GC/static/js/main.927673e8.js.map",
+    "main.b59bfef2.css.map": "/AMD-GC/static/css/main.b59bfef2.css.map",
+    "main.a7ce6185.js.map": "/AMD-GC/static/js/main.a7ce6185.js.map",
     "453.c83cdef3.chunk.js.map": "/AMD-GC/static/js/453.c83cdef3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3651228f.css",
-    "static/js/main.927673e8.js"
+    "static/css/main.b59bfef2.css",
+    "static/js/main.a7ce6185.js"
   ]
 }
